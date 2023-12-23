@@ -1,0 +1,6 @@
+Flask
+pymongo[srv]
+Flask-PyMongo
+fastai
+opencv-python
+twilio
